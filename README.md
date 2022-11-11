@@ -12,3 +12,11 @@
 10. [Qualitätszenarien](./10-quality-scenarios.md)
 11. [Risiken](./11-risks.md)
 12. [Glossar](./12-glossary.md)
+
+| Anforderungsbezogen | Struktur der Lösung (Sichten) | übergreifende (technische) Informationen | bessonders wichtige Entscheidungen |
+| --- | --- | --- | --- |
+| 1. [Einführung und Ziele](./1-goals.md) | 5. [Bausteinsicht](./5-building-blocks-view.md) | 4. [Lösungsstrategie](./4-solution.md) | 8. [Querschnittliche Konzepte und Muster](./8-crosscutting-concepts-and-patterns.md) |
+| 2. [Randbedingungen](./2-conditions.md) | 6. [Laufzeitsicht](./6-runtime-view.md) | 8. [Querschnittliche Konzepte und Muster](./8-crosscutting-concepts-and-patterns.md) | 11. [Risiken](./11-risks.md) |
+| 3. [Kontextabgrenzung](./3-context.md) | 7. [Verteilungssicht](./7-deployment-view.md) | | |
+| 10. [Qualitätszenarien](./10-quality-scenarios.md) | | |
+| 12. [Glossar](./12-glossary.md) | | |
