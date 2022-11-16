@@ -13,6 +13,8 @@
 11. [Risiken](./11-risks.md)
 12. [Glossar](./12-glossary.md)
 
+## Thematisch Ordnung
+
 | Anforderungsbezogen | Struktur der Lösung (Sichten) | übergreifende (technische) Informationen | bessonders wichtige Entscheidungen |
 | --- | --- | --- | --- |
 | 1. [Einführung und Ziele](./1-goals.md) | 5. [Bausteinsicht](./5-building-blocks-view.md) | 4. [Lösungsstrategie](./4-solution.md) | 8. [Querschnittliche Konzepte und Muster](./8-crosscutting-concepts-and-patterns.md) |
